@@ -1,0 +1,65 @@
+
+.navbar{
+
+    background-color: black;
+    color: white;
+    font-size: larger;
+     padding: 15px;
+     font-size: 25px;
+     font-family: verdana;
+     font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    text-align: right;
+    font-family: Verdana;
+}
+
+li a{
+    text-decoration: none;
+    background-color: black;
+    color: white; 
+    
+    
+}
+nav ul li{
+    display: inline;
+    margin: 0 5px;
+    padding: 10px;
+    
+}
+
+.logo{
+    
+     padding: 50px;
+     text-align: center;
+     
+}
+.index{
+    color: blueviolet;
+    padding: 10px;
+}
+
+
+ table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    border-width: 2px;
+    color: burlywood;
+    text-align: center;
+    justify-content: space-between;
+ }
+
+ body{
+    background-image: url('SSK.jpg');
+    background-size:contain;
+ }
+ .colo{
+    color: cyan;
+ }
